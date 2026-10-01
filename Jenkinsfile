@@ -14,4 +14,4 @@ Compile
       ↓
 Run
       ↓
-Hello World!
+echo 'Hello World!'
